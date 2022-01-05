@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">recycler-compose-test</string>
+
+    <string name="personality">Personality</string>
+    <string name="sex">Sex</string>
+    <string name="age">Age</string>
+</resources>
